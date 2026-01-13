@@ -33,6 +33,13 @@ app/
 ├── types/         # TypeScript type definitions
 └── root.tsx       # Root layout
 ```
+## Live Preview
+
+Visit :- https://ai-resume-analyzer-snowy-five.vercel.app/
+
+
+https://github.com/user-attachments/assets/cfc105cd-c46d-4321-b176-ecbd8bd98913
+
 
 ## 🏁 Getting Started
 
